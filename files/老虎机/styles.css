@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u11_img {
+#u13_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -24,7 +24,7 @@
   width:378px;
   height:669px;
 }
-#u11 {
+#u13 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -33,20 +33,20 @@
   height:669px;
   display:flex;
 }
-#u11 .text {
+#u13 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u11_text {
+#u13_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u12_img {
+#u14_img {
   border-width:0px;
   position:absolute;
   left:-4px;
@@ -54,79 +54,13 @@
   width:40px;
   height:50px;
 }
-#u12 {
+#u14 {
   border-width:0px;
   position:absolute;
   left:417px;
   top:56px;
   width:30px;
   height:40px;
-  display:flex;
-}
-#u12 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u12_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u13_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:168px;
-  height:96px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u13 {
-  border-width:0px;
-  position:absolute;
-  left:456px;
-  top:68px;
-  width:168px;
-  height:96px;
-  display:flex;
-}
-#u13 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u13_text {
-  border-width:0px;
-  white-space:nowrap;
-  text-transform:none;
-}
-#u14_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:366px;
-  height:85px;
-}
-#u14 {
-  border-width:0px;
-  position:absolute;
-  left:456px;
-  top:191px;
-  width:366px;
-  height:85px;
   display:flex;
 }
 #u14 .text {
@@ -147,8 +81,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:273px;
-  height:48px;
+  width:168px;
+  height:96px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -161,9 +95,9 @@
   border-width:0px;
   position:absolute;
   left:456px;
-  top:296px;
-  width:273px;
-  height:48px;
+  top:68px;
+  width:168px;
+  height:96px;
   display:flex;
 }
 #u15 .text {
@@ -181,12 +115,78 @@
 #u16_img {
   border-width:0px;
   position:absolute;
+  left:0px;
+  top:0px;
+  width:366px;
+  height:85px;
+}
+#u16 {
+  border-width:0px;
+  position:absolute;
+  left:456px;
+  top:191px;
+  width:366px;
+  height:85px;
+  display:flex;
+}
+#u16 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u16_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u17_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:273px;
+  height:48px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u17 {
+  border-width:0px;
+  position:absolute;
+  left:456px;
+  top:296px;
+  width:273px;
+  height:48px;
+  display:flex;
+}
+#u17 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u17_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u18_img {
+  border-width:0px;
+  position:absolute;
   left:-3px;
   top:-13px;
   width:191px;
   height:31px;
 }
-#u16 {
+#u18 {
   border-width:0px;
   position:absolute;
   left:311px;
@@ -199,14 +199,14 @@
   -ms-transform:rotate(139.693275401127deg);
   transform:rotate(139.693275401127deg);
 }
-#u16 .text {
+#u18 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u16_text {
+#u18_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
